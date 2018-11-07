@@ -1,0 +1,17 @@
+{
+"url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+"AddCustomer":{
+"firstName":"Suman",
+"lastName":"Kumari",
+"postalNo":"12345"
+},
+"depositMoney":{
+"amount":"2000"
+},
+"withdrawError":{
+"amount":"2001"
+},
+"withdrawSuccess":{
+"amount":"1000"
+}
+}
